@@ -1,0 +1,6 @@
+2023-08-06 02:16:21.046532 - Initialized conversion of CBT216
+2023-08-06 02:16:21.079164 - Received CBT.V505.FILE216.PDS from FILE216.XMI 
+2023-08-06 02:16:21.081020 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE216.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:16:21.082174 - Found @FILE216.txt (text/plain) in CBT.V505.FILE216.PDS, moved to PDS/@FILE216
+2023-08-06 02:16:21.083165 - Found CNVDAT#.txt (text/plain) in CBT.V505.FILE216.PDS, moved to PDS/CNVDAT#
+2023-08-06 02:16:21.084008 - Found CNVDATE.txt (text/plain) in CBT.V505.FILE216.PDS, moved to PDS/CNVDATE
